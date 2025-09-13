@@ -79,12 +79,6 @@ Before you begin, ensure you have the following installed:
     npm install
     ```
 
-3.  **Create a `.env` file** in the `backend` directory (at `MERN-Store-Ratings/backend/.env`) and add your environment variables:
-    ```
-    PORT=5000
-    MONGO_URI=mongodb://localhost:27017/mernstoreratings  # Or your MongoDB Atlas URI (e.g., 'mongodb+srv://user:pass@cluster.mongodb.net/mernstoreratings?retryWrites=true&w=majority')
-    JWT_SECRET=a_very_strong_and_random_secret_key_here  # Generate a strong, random key for JWT signing
-    ```
 
 ### Frontend Setup
 
