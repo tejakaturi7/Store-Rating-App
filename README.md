@@ -193,26 +193,26 @@ The application implements the following validations for user input:
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-##Home Page
+### Home Page
 
 <img width="1901" height="911" alt="image" src="https://github.com/user-attachments/assets/7b71f26a-a105-4e70-8a80-d53d021d885a" />
 
-##User SignUP:
+### User SignUP:
 <img width="783" height="764" alt="image" src="https://github.com/user-attachments/assets/2def1fe9-ecf2-4e6f-8098-f8edf03cfc11" />
 
-##Owner Login:
+### Owner Login:
 <img width="727" height="580" alt="image" src="https://github.com/user-attachments/assets/46e85081-bed5-4061-a936-de9421d656ed" />
 
 ##Owner Signup:
 <img width="612" height="660" alt="image" src="https://github.com/user-attachments/assets/cb6f7f3c-0d4a-426b-8184-49b30d566f20" />
 
-##User Home :
+### User Home :
 <img width="1876" height="869" alt="image" src="https://github.com/user-attachments/assets/df298059-e4a0-4d17-9965-21b94bc9a7c4" />
 
-#Owner Home :
+### Owner Home :
 <img width="1790" height="884" alt="image" src="https://github.com/user-attachments/assets/9f6bd3cc-7ad8-491e-a555-78e2310615ad" />
 
-##Add Store:
+### Add Store:
 <img width="1008" height="699" alt="image" src="https://github.com/user-attachments/assets/ed948ea7-7f34-4dee-98b0-d1dc7e57863c" />
 
 
