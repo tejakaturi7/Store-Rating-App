@@ -216,7 +216,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 <img width="1008" height="699" alt="image" src="https://github.com/user-attachments/assets/ed948ea7-7f34-4dee-98b0-d1dc7e57863c" />
 
 
-
+### Prototype : figma.com/make/Qrt78beY5QiwHPFEjiam5z/MERN-Store-Ratings-App?fullscreen=1
 
 
 
